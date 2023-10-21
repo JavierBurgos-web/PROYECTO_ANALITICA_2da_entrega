@@ -17,7 +17,7 @@ Para evaluar la calidad de los clústeres, se evaluó el parametro de **Cohesió
 
 **RESULTADOS**
 
-Tras el desarrollo del trabajo se observo que el algoritmo más efectivo fue ____ pra agrupar las caracteristicas del jugador ideal.
+Tras el desarrollo del trabajo se observo que el algoritmo más efectivo fue _____ pra agrupar las caracteristicas del jugador ideal.
 
 </br>
 
