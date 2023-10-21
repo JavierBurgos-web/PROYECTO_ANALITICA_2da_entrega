@@ -1,5 +1,6 @@
 **SEGUNDA ENTREGA**
 
+
 **Objetivo**
 La finalidad de este trabajo es evaluar la efectividad de dos algoritmos de clustering, K-means y Shift, para agrupar datos correspondientes a diferentes factores asociados a jugadores quienes participaron en la FIFA 2022. Dichos datos se tomaron de la pagina  [Sports-Statistics.com](https://sports-statistics.com/sports-data/fifa-2022-dataset-csvs/)
 
