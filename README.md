@@ -1,4 +1,4 @@
-**### SEGUNDA ENTREGA EN ANALITICA II**
+### **SEGUNDA ENTREGA EN ANALITICA II**
 
 **Integrantes:**
 
