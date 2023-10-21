@@ -1,9 +1,12 @@
 **### SEGUNDA ENTREGA EN ANALITICA II**
 
 **Integrantes:**
-<p>Susana Barrientos</p>
-<p>Favio Gónzalez</p>
-<p>Javier Burgos</p>
+
+Susana Barrientos
+
+Favio Gónzalez
+
+Javier Burgos
 
 - Planteamiento del problema
 - Diseño de solución propuesto
