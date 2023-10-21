@@ -13,10 +13,13 @@ Se usó un enfoque de selección de variables basado en importancia estadística
 
 Para evaluar la calidad de los clústeres, se evaluó el parametro de **Cohesión** el cuál mide la similaridad entre los puntos dentro de un clúster, y el parametro de **Segregación** que mide la diferencia entre los clústeres.
 
+</br>
+
 **RESULTADOS**
 
 Tras el desarrollo del trabajo se observo que el algoritmo más efectivo fue ____ pra agrupar las caracteristicas del jugador ideal.
 
+</br>
 
 **Integrantes:**
 
