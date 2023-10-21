@@ -21,10 +21,10 @@ Tras el desarrollo del trabajo se observo que el algoritmo más efectivo fue ___
 
 </br>
 
-**Integrantes:**
+**INTEGRANTES**
 
-Susana Barrientos
-
-Favio Gónzalez
-
-Javier Burgos
+Susana Eugenia Barrientos Cortés
+</br>
+Fabio Andres Gonzalez Villota
+</br>
+Javier Elohim Burgos Chaguezac
