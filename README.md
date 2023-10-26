@@ -13,13 +13,13 @@
 </br>
 
 **📂 ARCHIVOS**
--  1_Notebook_limpieza.
--  2_Notebook_algoritmos.
-- Diccionario de variables.
-- FIFA_22. Base de datos usada.
-- Presentación. Diapositivas expuestas.
-- dataset_final. Datos para el archivo 2_Notebook_algoritmos. 
-- dataset_limpio. Datos con selección de variables
+-  **1_Notebook_limpieza.**
+-  **2_Notebook_algoritmos.**
+- **Diccionario de variables.**
+- **FIFA_22.** Base de datos usada.
+- **Presentación.** Diapositivas expuestas.
+- **dataset_final.** Datos para el archivo 2_Notebook_algoritmos. 
+- **dataset_limpio.** Datos con selección de variables
   
 </br>
 
