@@ -26,7 +26,5 @@
 **👥 INTEGRANTES**
 
 - Susana Eugenia Barrientos Cortés
-</br>
 - Fabio Andres Gonzalez Villota
-</br>
 - Javier Elohim Burgos Chaguezac
